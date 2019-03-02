@@ -1,2 +1,3 @@
-# emoji-memory-game
-Memory card game 
+# Memory Game
+
+Nothing more than a simply memory game. 
